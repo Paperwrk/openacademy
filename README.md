@@ -1,2 +1,2 @@
 # openacademy
-Website
+OpenAcademy Website project.
